@@ -1,6 +1,6 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Jedidiah Duncan
+## lab 5
+## [Submission date: 10/09/24]
 ## Worked with/sources 
 * example
 * example

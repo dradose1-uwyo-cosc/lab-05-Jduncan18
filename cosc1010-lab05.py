@@ -1,12 +1,13 @@
-# Your Name Here
+# Jedidiah Duncan
 # UWYO COSC 1010
-# Submission Date
-# Lab 03 
-# Lab Section: 
+#  10/09/24
+# Lab 05
+# Lab Section: 15
 # Sources, people worked with, help given to: 
 # your
 # comments
 # here
+# aaaaaaaaaaaaahhhhhhhhhhhh
 
 max_temps = [
     32, 24, 22, 25, 37, 33, 34, 40, 40, 42,
